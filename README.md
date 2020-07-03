@@ -1,2 +1,2 @@
 # Connect-4
-2 Player Connect-4 GAME
+2 Player Connect-4 GAME IMPLEMENT IN PYTHON USING PYGAME MODULE
